@@ -1,0 +1,81 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*importan*/
+
+
+/* padding mover elementos internos*/
+
+#wrapper {
+    width: 950px;
+    background-color: grey;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+
+/*importan*/
+
+
+/* Margin desplaza de manera optico*/
+
+#header {
+    min-height: 150px;
+    background-color: purple;
+    margin-bottom: 20px;
+}
+
+
+/*importan*/
+
+
+/*crear cajas de blqoues*/
+
+#navigation {
+    min-height: 300px;
+    width: 200px;
+    background-color: pink;
+    display: inline-block;
+    margin-right: 14px;
+}
+
+
+/*importan*/
+
+
+/*crear cajas de blqoues*/
+
+#main_content {
+    min-height: 400px;
+    width: 700px;
+    background-color: blue;
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px;
+}
+
+.subcontents {
+    min-height: 200px;
+    width: 210px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 10px;
+}
+
+
+/*importan*/
+
+
+/* Margin desplaza de manera optico*/
+
+#advertisement {
+    min-height: 120px;
+    width: 675px;
+    background-color: green;
+    margin-left: 6px;
+}
